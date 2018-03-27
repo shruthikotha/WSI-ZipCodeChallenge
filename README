@@ -1,5 +1,5 @@
-Since real-world inputs for this test are likely to come from databases
-and/or web services, I chose to focus on getting the functionality accurate
+Since real-world inputs for this test generally come from databases
+and/or web services, I chose to focus on getting the functionality accurate.
 I've provided a simple maven module with a suite of tests to
 demonstrate proper operation. Simply import the module into the editor of
 your choosing and run the JUnit tests.
